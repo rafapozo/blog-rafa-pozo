@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog de Rafa Pozo`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rafa Pozo`,
+      summary: `Probando a hacer un blog con gatsby`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://gatsbyjs.org`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `rafapozo`,
     },
   },
   plugins: [
