@@ -5,7 +5,7 @@ module.exports = {
       name: `Rafa Pozo`,
       summary: `Probando a hacer un blog con gatsby`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A starter blog demonstrating what Gatsby can do`,
     siteUrl: `https://gatsbyjs.org`,
     social: {
       twitter: `rafapozo`,
